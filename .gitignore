@@ -22,3 +22,39 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Node modules
+/node_modules
+
+# Build output
+/dist
+
+# Environment files
+.env
+.env.local
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Temporary files
+.DS_Store
+Thumbs.db
+
+# IDE or editor configuration
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Coverage reports
+/coverage
+
+# Compiled source files
+/build
+/out
+
+# Custom files
+secret-config.js
+
